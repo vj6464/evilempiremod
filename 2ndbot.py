@@ -23,4 +23,4 @@ async def ban(ctx, member : discord.Member, *, reason=None):
  await ctx.send(f'Banned {member.name}#{member.mention}')
 
 
-client.run('Njg1NzI4NDE4OTI2NTU5Mjcw.XqEq0w.Jy04U_Xdg3ca5i69fmdVAxOLFlA')
+client.run('NzAyMDU4NTYxNzk0MjExOTAw.XqE4pQ.AOLEg_VgSqE3q5CZys5N30R4xd0')
